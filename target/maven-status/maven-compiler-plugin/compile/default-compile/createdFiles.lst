@@ -1,0 +1,7 @@
+com/neuralnetwork/PerceptronLinear.class
+com/neuralnetwork/PerceptronFactory.class
+com/neuralnetwork/PerceptronInterface.class
+com/neuralnetwork/PerceptronLogical.class
+com/neuralnetwork/Perceptron.class
+com/neuralnetwork/Main.class
+com/neuralnetwork/Node.class
