@@ -1,1 +1,1 @@
-# Perceptron
+The implementation and analysis of a simple perceptron used to solve logical functions and perform linear regression. The perceptron is trained to classify inputs based on the AND logical function and to fit a linear function, y = 2x + 1. The foundational concepts and algorithms of the perceptron are based on the original work by Frank Rosenblatt, as described in his seminal 1958 paper "The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain".
