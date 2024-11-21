@@ -25,11 +25,3 @@ The perceptron, inspired by Frank Rosenblatt's 1958 foundational work, is a simp
 
 ---
 
-## Methodology
-
-### 1. Initialization
-- Randomly initialize weights, including the bias.
-- Example formula for weighted sum:
-  ```python
-  def weighted_sum(inputs, weights, bias):
-      return sum(i * w for i, w in zip(inputs, weights)) + bias
