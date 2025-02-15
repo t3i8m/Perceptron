@@ -3,6 +3,7 @@
 
 This project demonstrates the implementation of a simple perceptron to solve logical functions (e.g., AND) and perform linear regression tasks (e.g., fitting `y = 2x + 1`). The work evaluates the perceptron's performance by analyzing the impact of initial weights, learning rates, and target value variations.
 
+Paper - https://drive.google.com/file/d/1ggh4R8mjI9Wj5kvNzXB2FtNWfBa3BVOU/view?usp=sharing
 ---
 
 ## Overview
